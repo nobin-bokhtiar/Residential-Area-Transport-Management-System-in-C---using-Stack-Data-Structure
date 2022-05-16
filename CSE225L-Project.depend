@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1555422475 source:c:\users\asua\desktop\cse225l-project\main.cpp
+	<iostream>
+
+1555434250 source:c:\users\asua\desktop\cse225l-project\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1555434208 c:\users\asua\desktop\cse225l-project\sortedtype.h
+
